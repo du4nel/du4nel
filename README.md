@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Du4nel 👋
 
-<!--
-**du4nel/du4nel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student with a love for technology, computers, and science. I enjoy exploring new technologies, building projects, and learning every day.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:**  
+  Python, C, C++, Java (learning), HTML, CSS, Markdown
+
+- **Tech Interests:**  
+  Software development, computational science, web technologies, and more.
+
+- **Design & Multimedia (Hobbies):**  
+  Blender, Photoshop, Illustrator, Video Editing
+
+## 📫 Connect with me
+
+- **Instagram:** [@du4nel](https://instagram.com/du4nel)
+
+---
+
+Thanks for visiting my profile! 🚀
